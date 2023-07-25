@@ -1,0 +1,10 @@
+public
+/api
+.env-example
+node_modules
+build
+.env
+/app/styes/tailwind.css
+/styles/tailwind.css
+/.husky
+pnpm-lock.yaml
